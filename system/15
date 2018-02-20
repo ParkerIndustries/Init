@@ -1,1 +1,2 @@
+#!/bin/bash
 jobs -p | xargs kill -KILL

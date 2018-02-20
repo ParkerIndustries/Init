@@ -1,1 +1,2 @@
+#!/bin/bash
 dig slash16.org +short

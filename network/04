@@ -1,1 +1,2 @@
+#!/bin/bash
 route get default | grep gateway | awk '{print $2}'

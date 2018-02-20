@@ -1,3 +1,4 @@
+#!/bin/bash
 MD5SUM=`cat /root/crontabsum`
 NEWSUM=`md5sum /etc/crontab | cut -d " " -f 1`
 

@@ -1,1 +1,2 @@
+#!/bin/bash
 traceroute -nI slash16.org
