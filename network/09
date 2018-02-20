@@ -1,1 +1,4 @@
-10.52.1.11
+En faisant:
+> nslookup 42.fr
+On obtient deux adresses IP publiques
+163.172.250.12 et 163.172.250.11
