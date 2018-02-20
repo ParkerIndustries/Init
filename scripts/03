@@ -1,0 +1,2 @@
+find . \( ! -name . -prune \) \( -type f \) | sort -h
+#du -H $(ls -S | grep -v '/$') | sort -n
